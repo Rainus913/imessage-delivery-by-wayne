@@ -1,0 +1,4 @@
+interface:
+  display_name: "iMessage Delivery"
+  short_description: "通过 Mac iMessage 发送文字、图片或文档"
+  default_prompt: "使用 $imessage-delivery 将这份报告或图片通过 iMessage 发送到我的 iPhone。"
